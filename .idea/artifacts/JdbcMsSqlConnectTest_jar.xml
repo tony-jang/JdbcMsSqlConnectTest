@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JdbcMsSqlConnectTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JdbcMsSqlConnectTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JdbcMsSqlConnectTest.jar">
+        <element id="module-output" name="JdbcMsSqlConnectTest" />
+      </element>
+      <element id="file-copy" path="mssql-jdbc-11.2.0.jre11.jar" />
+    </root>
+  </artifact>
+</component>
